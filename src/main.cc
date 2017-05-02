@@ -6,6 +6,8 @@ int main(int argc, char* argv[])
 {
 	Print print;
 	print.show();
+
+	std::cout<<"this is my first modify document"<<std::endl;
 	PAUSE
 	return 0;
 }
